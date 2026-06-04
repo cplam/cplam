@@ -11,8 +11,6 @@
 - AI models: PyTorch | Keras | Scikitlearn
 - Languages: Cantonese (naive) | English (fluent) | Putonghua (fluent) 
 
-## 📊 My GitHub status
-![cplam's GitHub](https://github-readme-stats.vercel.app/api?username=cplam&show_icons=true)
 
 ## 📫 Contact me
 - email: ballball231@gmail.com
