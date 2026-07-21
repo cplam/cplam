@@ -9,7 +9,7 @@
 - Signal Processing | Machine Learning | AI model training | Image Processing | Algorithms
 - Programming languages: Python | C++ | typescript | Java
 - AI models: PyTorch | Keras | Scikitlearn
-- Languages: Cantonese (naive) | English (fluent) | Putonghua (fluent) 
+- Languages: Cantonese (native) | English (fluent) | Putonghua (fluent) 
 
 
 ## 📫 Contact me
