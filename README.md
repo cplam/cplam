@@ -24,7 +24,7 @@ An image processing project that automatically removes pimples and wrinkles, and
 ---
 
 ### 🌱 Habits:
-Running 5K and reading books.
+Running 5K, gym, watching JFFT lives(bedgor😍🔥), exploring STEM knowledge and reading books.
 
 ---
 
